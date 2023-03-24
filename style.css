@@ -1,0 +1,19 @@
+h1{
+    text-align: justify;
+}
+div{
+    background-color: antiquewhite;
+    padding: auto;
+    margin: auto;
+    line-height: 2;
+}
+a:hover{
+    color: blanchedalmond;
+}
+h2{
+    margin: 20px 50px 40px 30px;
+}
+.abc{
+    float: left;
+    
+}
